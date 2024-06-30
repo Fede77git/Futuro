@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ball
   - Bug
+  - Game1
   layers:
   - Default
   - TransparentFX
