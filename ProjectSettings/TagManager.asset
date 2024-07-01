@@ -9,6 +9,7 @@ TagManager:
   - Game1
   - Object
   - Bullet
+  - Game2
   layers:
   - Default
   - TransparentFX

@@ -11,6 +11,11 @@ public class LoadSceneGame1 : MonoBehaviour
         {
             SceneManager.LoadScene("bug1");
         }
+        else if (other.gameObject.CompareTag("Game2"))
+        {
+            SceneManager.LoadScene("bug2");
+
+        }
     }
 
 }
